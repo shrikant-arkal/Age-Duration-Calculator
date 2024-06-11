@@ -1,4 +1,4 @@
-# Age-Duration-Calculator
+# Age-Duration-Calculator Project
 The Survival Duration Calculator is a Python project that allows you to calculate how long a person has lived based on their age. It provides the duration in difrent time units, including months, weeks, days, hours, minutes, and seconds.
 
 # Project Objective
